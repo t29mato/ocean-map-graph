@@ -1,0 +1,8745 @@
+[
+    {
+      "ocean_id": 2,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2019-10-26 1:01:24"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2019-10-26 1:01:25"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-10-26 1:01:30"
+    },
+    {
+      "ocean_id": 6,
+      "min": 1,
+      "max": 8,
+      "avg": 4.5,
+      "created_at": "2019-10-26 1:01:31"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2019-10-26 1:01:32"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2019-10-26 17:00:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2019-10-26 17:30:17"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2019-10-26 19:00:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2019-10-27 7:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": null,
+      "max": 8,
+      "avg": 4,
+      "created_at": "2019-10-27 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-10-27 16:00:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2019-10-27 22:00:08"
+    },
+    {
+      "ocean_id": 3,
+      "min": null,
+      "max": 8,
+      "avg": 4,
+      "created_at": "2019-10-28 7:55:32"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2019-10-28 8:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2019-10-28 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2019-10-28 15:30:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2019-10-29 7:30:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 6,
+      "avg": 4.5,
+      "created_at": "2019-10-29 17:30:12"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-10-29 18:30:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2019-10-30 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-10-30 8:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-10-30 16:00:25"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2019-10-30 16:30:12"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-10-31 15:30:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 14,
+      "avg": 12,
+      "created_at": "2019-10-31 17:30:10"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-11-01 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2019-11-01 15:30:15"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2019-11-01 16:30:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-11-01 18:30:06"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-11-02 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2019-11-02 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-11-02 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 18,
+      "avg": 14,
+      "created_at": "2019-11-02 17:30:11"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2019-11-02 19:00:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2019-11-03 7:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-11-03 8:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-11-04 8:00:02"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2019-11-04 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2019-11-04 16:30:10"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-11-04 17:30:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2019-11-05 16:00:25"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2019-11-05 16:30:18"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2019-11-05 17:00:13"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2019-11-06 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 7,
+      "max": 8,
+      "avg": 7.5,
+      "created_at": "2019-11-06 9:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2019-11-06 9:00:02"
+    },
+    {
+      "ocean_id": 6,
+      "min": 2,
+      "max": 5,
+      "avg": 3.5,
+      "created_at": "2019-11-06 17:30:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2019-11-06 18:30:12"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2019-11-07 7:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2019-11-07 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2019-11-07 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2019-11-07 8:30:00"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2019-11-08 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2019-11-08 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-11-08 15:00:40"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2019-11-08 16:30:13"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2019-11-08 18:00:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2019-11-09 7:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 4,
+      "max": 8,
+      "avg": 6,
+      "created_at": "2019-11-09 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 18,
+      "max": 20,
+      "avg": 19,
+      "created_at": "2019-11-09 15:00:09"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2019-11-09 16:30:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 7,
+      "max": 10,
+      "avg": 8.5,
+      "created_at": "2019-11-09 22:30:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2019-11-10 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 5,
+      "max": 7,
+      "avg": 6,
+      "created_at": "2019-11-10 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2019-11-10 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-11-10 15:00:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2019-11-10 15:30:06"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-11-10 16:30:07"
+    },
+    {
+      "ocean_id": 7,
+      "min": 15,
+      "max": 18,
+      "avg": 16.5,
+      "created_at": "2019-11-10 17:00:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2019-11-11 8:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2019-11-11 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 4,
+      "max": 7,
+      "avg": 5.5,
+      "created_at": "2019-11-11 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2019-11-11 16:00:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2019-11-12 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2019-11-12 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 5,
+      "max": null,
+      "avg": 2.5,
+      "created_at": "2019-11-12 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 5,
+      "max": 9,
+      "avg": 7,
+      "created_at": "2019-11-12 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": null,
+      "max": 8,
+      "avg": 4,
+      "created_at": "2019-11-12 14:30:16"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2019-11-12 17:00:13"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 13,
+      "avg": 11.5,
+      "created_at": "2019-11-13 7:30:10"
+    },
+    {
+      "ocean_id": 3,
+      "min": 6,
+      "max": 8,
+      "avg": 7,
+      "created_at": "2019-11-13 8:30:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2019-11-13 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2019-11-13 14:30:11"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2019-11-14 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2019-11-14 8:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 8,
+      "max": null,
+      "avg": 4,
+      "created_at": "2019-11-14 8:00:02"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2019-11-15 7:30:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-11-15 8:00:04"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2019-11-15 8:30:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2019-11-15 9:00:02"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2019-11-15 11:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 12,
+      "max": 20,
+      "avg": 16,
+      "created_at": "2019-11-15 15:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2019-11-15 16:00:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2019-11-16 8:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2019-11-16 15:30:08"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2019-11-16 17:00:08"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2019-11-17 7:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-11-17 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-11-17 15:00:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2019-11-17 17:00:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-11-17 18:00:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2019-11-18 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-11-18 8:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2019-11-18 8:00:02"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2019-11-18 16:00:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": 6,
+      "max": 15,
+      "avg": 10.5,
+      "created_at": "2019-11-19 8:00:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 6,
+      "max": 8,
+      "avg": 7,
+      "created_at": "2019-11-19 17:00:24"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2019-11-20 7:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-11-20 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2019-11-20 8:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2019-11-20 14:00:16"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-11-20 16:30:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2019-11-20 17:00:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2019-11-21 7:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2019-11-21 16:30:11"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2019-11-22 8:30:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2019-11-22 16:30:12"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2019-11-23 18:00:06"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-11-24 16:00:08"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2019-11-24 17:00:38"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2019-11-24 17:00:39"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 14,
+      "avg": 13,
+      "created_at": "2019-11-26 7:00:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2019-11-26 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2019-11-26 16:00:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2019-11-26 17:01:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2019-11-26 17:01:10"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-11-27 15:30:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-11-27 16:30:15"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 12,
+      "avg": 6,
+      "created_at": "2019-11-28 8:30:02"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2019-11-28 17:00:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2019-11-30 7:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2019-11-30 9:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2019-11-30 14:30:11"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2019-12-01 7:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2019-12-01 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-12-01 16:00:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2019-12-01 22:00:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2019-12-02 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2019-12-02 8:00:00"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2019-12-03 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-03 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-03 9:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-03 16:30:08"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2019-12-04 17:00:07"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2019-12-05 8:00:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2019-12-05 17:00:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-12-06 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 18,
+      "avg": 16.5,
+      "created_at": "2019-12-06 8:30:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2019-12-06 16:00:08"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2019-12-06 17:00:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2019-12-06 17:00:11"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": null,
+      "avg": 5,
+      "created_at": "2019-12-07 8:30:00"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2019-12-08 7:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2019-12-08 8:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2019-12-08 16:30:14"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2019-12-09 7:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-09 8:00:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-09 15:00:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2019-12-10 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2019-12-10 8:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 15,
+      "max": 16,
+      "avg": 15.5,
+      "created_at": "2019-12-10 14:00:38"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 18,
+      "avg": 16.5,
+      "created_at": "2019-12-10 16:30:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2019-12-11 7:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2019-12-11 8:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-12-11 14:30:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2019-12-11 16:00:10"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2019-12-11 17:30:14"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2019-12-12 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2019-12-12 8:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": null,
+      "avg": 10,
+      "created_at": "2019-12-12 8:30:02"
+    },
+    {
+      "ocean_id": 1,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-13 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2019-12-13 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2019-12-13 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2019-12-13 16:00:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2019-12-14 7:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-14 8:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2019-12-14 14:30:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2019-12-14 22:00:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-15 7:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2019-12-15 9:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-15 13:30:10"
+    },
+    {
+      "ocean_id": 7,
+      "min": 15,
+      "max": 16,
+      "avg": 15.5,
+      "created_at": "2019-12-16 15:30:09"
+    },
+    {
+      "ocean_id": 8,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2019-12-16 17:00:15"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-16 18:00:40"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2019-12-17 7:30:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 15,
+      "max": 17,
+      "avg": 16,
+      "created_at": "2019-12-17 14:00:07"
+    },
+    {
+      "ocean_id": 6,
+      "min": 6,
+      "max": 8,
+      "avg": 7,
+      "created_at": "2019-12-17 17:00:14"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2019-12-18 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2019-12-18 8:00:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2019-12-18 16:30:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-19 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2019-12-19 15:30:09"
+    },
+    {
+      "ocean_id": 6,
+      "min": 6,
+      "max": 10,
+      "avg": 8,
+      "created_at": "2019-12-19 17:00:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2019-12-19 22:00:09"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-20 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2019-12-20 16:00:11"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2019-12-20 16:30:10"
+    },
+    {
+      "ocean_id": 5,
+      "min": 18,
+      "max": 18,
+      "avg": 18,
+      "created_at": "2019-12-20 20:00:07"
+    },
+    {
+      "ocean_id": 2,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2019-12-21 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2019-12-21 17:00:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2019-12-22 16:30:08"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2019-12-22 17:00:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2019-12-22 21:00:06"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": 30,
+      "avg": 25,
+      "created_at": "2019-12-23 12:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2019-12-23 15:00:09"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-23 16:30:10"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2019-12-24 15:00:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 18,
+      "avg": 16.5,
+      "created_at": "2019-12-24 16:30:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2019-12-25 7:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2019-12-25 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2019-12-25 17:00:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2019-12-26 7:30:06"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2019-12-26 17:00:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2019-12-28 7:00:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2019-12-28 16:00:12"
+    },
+    {
+      "ocean_id": 8,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2019-12-28 16:00:13"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": null,
+      "avg": 10,
+      "created_at": "2019-12-28 16:30:03"
+    },
+    {
+      "ocean_id": 7,
+      "min": 7,
+      "max": 8,
+      "avg": 7.5,
+      "created_at": "2019-12-28 18:00:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2019-12-29 7:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2019-12-29 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-29 8:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2019-12-29 16:00:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2019-12-30 8:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2019-12-30 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2019-12-30 16:30:09"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2019-12-31 8:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 13,
+      "avg": 11.5,
+      "created_at": "2020-01-01 16:00:10"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-01-01 17:00:14"
+    },
+    {
+      "ocean_id": 2,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-01-02 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-01-02 16:30:09"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-01-03 8:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-01-04 8:30:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": null,
+      "avg": 10,
+      "created_at": "2020-01-05 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-01-05 14:30:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-01-06 8:00:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-01-07 15:00:10"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2020-01-07 16:00:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-01-08 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-01-08 8:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 15,
+      "avg": 14,
+      "created_at": "2020-01-09 8:00:08"
+    },
+    {
+      "ocean_id": 6,
+      "min": 6,
+      "max": 10,
+      "avg": 8,
+      "created_at": "2020-01-09 17:30:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-01-10 7:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 30,
+      "max": 30,
+      "avg": 30,
+      "created_at": "2020-01-10 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-01-10 15:00:11"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-01-11 7:30:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": 30,
+      "avg": 25,
+      "created_at": "2020-01-11 8:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2020-01-11 16:30:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-01-12 8:00:00"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-01-13 7:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-01-14 15:30:15"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-01-14 17:00:34"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-01-15 17:00:11"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": null,
+      "avg": 10,
+      "created_at": "2020-01-18 8:00:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-01-18 16:30:13"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2020-01-18 17:30:11"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-01-19 7:30:00"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-01-20 7:30:01"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-01-21 7:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-01-21 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-01-21 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-01-21 8:30:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-01-21 16:30:21"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-01-22 17:00:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": 30,
+      "max": 30,
+      "avg": 30,
+      "created_at": "2020-01-24 8:00:00"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-01-25 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-01-25 8:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 25,
+      "max": 30,
+      "avg": 27.5,
+      "created_at": "2020-01-25 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-01-25 8:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-01-26 8:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2020-01-26 17:00:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-01-27 16:00:26"
+    },
+    {
+      "ocean_id": 6,
+      "min": 6,
+      "max": 8,
+      "avg": 7,
+      "created_at": "2020-01-27 17:00:57"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2020-01-28 6:30:15"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-01-29 7:30:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 6,
+      "max": 10,
+      "avg": 8,
+      "created_at": "2020-01-29 16:30:35"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-01-30 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-01-30 8:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-01-30 8:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": null,
+      "max": 20,
+      "avg": 10,
+      "created_at": "2020-01-30 9:30:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-01-30 16:00:10"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-01-31 16:30:12"
+    },
+    {
+      "ocean_id": 1,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-02-01 7:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-02-01 7:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-02-01 8:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-02-01 16:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-02-01 17:30:11"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-02-01 21:30:20"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-02-02 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-02-02 8:30:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-02-03 8:30:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-02-03 16:00:07"
+    },
+    {
+      "ocean_id": 6,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-02-03 16:00:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-02-04 16:30:13"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-02-06 8:30:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-02-08 7:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-02-08 17:00:14"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": null,
+      "avg": 10,
+      "created_at": "2020-02-09 8:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-02-09 8:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2020-02-09 16:00:10"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 12,
+      "avg": 6,
+      "created_at": "2020-02-10 8:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-02-11 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-02-12 16:30:12"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-02-13 8:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 6,
+      "max": 15,
+      "avg": 10.5,
+      "created_at": "2020-02-14 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": null,
+      "avg": 7.5,
+      "created_at": "2020-02-14 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-02-14 16:30:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-02-15 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-02-15 8:30:00"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-02-16 7:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-02-16 7:30:07"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-02-16 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-02-16 14:30:07"
+    },
+    {
+      "ocean_id": 2,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-02-17 8:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-02-17 17:30:16"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-02-18 8:00:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-02-18 17:00:07"
+    },
+    {
+      "ocean_id": 6,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-02-18 17:00:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-02-19 7:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 14,
+      "avg": 13,
+      "created_at": "2020-02-19 13:30:11"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 13,
+      "avg": 6.5,
+      "created_at": "2020-02-20 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": null,
+      "avg": 10,
+      "created_at": "2020-02-20 8:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 16,
+      "max": 18,
+      "avg": 17,
+      "created_at": "2020-02-20 14:00:10"
+    },
+    {
+      "ocean_id": 7,
+      "min": 16,
+      "max": 18,
+      "avg": 17,
+      "created_at": "2020-02-21 7:30:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-02-21 13:00:12"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": null,
+      "avg": 7.5,
+      "created_at": "2020-02-21 15:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 16,
+      "max": 18,
+      "avg": 17,
+      "created_at": "2020-02-21 18:30:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 16,
+      "max": 18,
+      "avg": 17,
+      "created_at": "2020-02-22 7:30:07"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-02-22 16:00:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-02-23 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-02-23 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": null,
+      "avg": 10,
+      "created_at": "2020-02-23 17:00:01"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-02-24 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 13,
+      "avg": 6.5,
+      "created_at": "2020-02-24 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 16,
+      "avg": 13,
+      "created_at": "2020-02-24 12:30:16"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-02-25 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-02-25 8:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 16,
+      "avg": 15,
+      "created_at": "2020-02-25 11:30:14"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 16,
+      "avg": 15,
+      "created_at": "2020-02-26 7:30:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-02-26 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 12,
+      "avg": 8.5,
+      "created_at": "2020-02-26 16:30:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-02-27 7:30:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-02-27 17:30:13"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-02-28 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-02-28 8:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": null,
+      "avg": 10,
+      "created_at": "2020-02-28 8:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 18,
+      "max": 20,
+      "avg": 19,
+      "created_at": "2020-02-28 14:30:09"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-02-28 17:30:15"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-02-29 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-02-29 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-02-29 17:00:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-02-29 18:30:06"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": null,
+      "avg": 7.5,
+      "created_at": "2020-03-01 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-03-01 8:30:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-03-01 16:30:06"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-03-01 17:30:09"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-03-02 15:30:51"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2020-03-02 16:00:11"
+    },
+    {
+      "ocean_id": 4,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-03-03 8:00:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 12,
+      "max": 20,
+      "avg": 16,
+      "created_at": "2020-03-03 16:00:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 15,
+      "max": 16,
+      "avg": 15.5,
+      "created_at": "2020-03-03 16:30:09"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-03-03 17:30:13"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 12,
+      "avg": 6,
+      "created_at": "2020-03-04 8:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-03-04 16:00:43"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 15,
+      "avg": 14,
+      "created_at": "2020-03-04 17:00:16"
+    },
+    {
+      "ocean_id": 6,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-03-04 18:30:06"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-03-05 7:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 15,
+      "max": 16,
+      "avg": 15.5,
+      "created_at": "2020-03-05 7:00:10"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 15,
+      "avg": 14,
+      "created_at": "2020-03-05 7:30:07"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-03-05 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-03-05 8:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-03-06 8:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-03-06 15:30:16"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-03-06 17:00:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-03-06 17:00:21"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-03-06 18:00:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-03-07 17:00:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-03-08 8:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-03-08 8:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-03-08 16:00:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 8,
+      "avg": 4,
+      "created_at": "2020-03-10 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-03-10 16:00:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-03-11 7:30:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-03-11 8:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-03-11 10:00:01"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-03-12 7:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-03-12 8:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-03-12 15:30:12"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-03-13 8:30:01"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-03-15 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 12,
+      "avg": 6,
+      "created_at": "2020-03-15 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-03-15 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2020-03-15 16:00:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-03-16 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-03-16 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-03-17 16:30:09"
+    },
+    {
+      "ocean_id": 4,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-03-18 8:00:01"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-03-19 7:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-03-19 14:30:19"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-03-19 17:00:22"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-03-20 19:00:18"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-03-21 15:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-03-21 18:30:09"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-03-22 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 25,
+      "avg": 20,
+      "created_at": "2020-03-22 13:00:11"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-03-23 8:30:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-03-23 8:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-03-25 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-03-25 10:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-03-26 13:30:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-03-26 17:30:08"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-03-26 17:30:10"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-03-27 8:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-03-27 8:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-03-27 16:00:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 12,
+      "avg": 8.5,
+      "created_at": "2020-03-27 17:00:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-03-28 17:00:14"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-03-28 18:00:07"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-03-28 20:30:10"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 12,
+      "avg": 7.5,
+      "created_at": "2020-03-29 17:30:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-03-30 8:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 6,
+      "max": 15,
+      "avg": 10.5,
+      "created_at": "2020-03-31 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-03-31 9:00:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-03-31 17:00:13"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-04-01 8:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-04-01 8:30:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-04-01 15:30:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-04-02 8:00:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-04-02 17:00:09"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-04-02 17:30:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-04-04 18:30:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 6,
+      "max": 10,
+      "avg": 8,
+      "created_at": "2020-04-05 7:00:11"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 8,
+      "avg": 4,
+      "created_at": "2020-04-05 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-04-05 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-04-05 16:00:19"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-04-05 16:30:08"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-04-06 17:30:11"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-04-07 8:30:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-04-07 17:00:10"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 6,
+      "avg": 5.5,
+      "created_at": "2020-04-08 15:00:11"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-04-09 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-04-09 15:30:09"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-04-09 17:00:13"
+    },
+    {
+      "ocean_id": 6,
+      "min": 6,
+      "max": 8,
+      "avg": 7,
+      "created_at": "2020-04-09 18:00:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-04-10 16:00:10"
+    },
+    {
+      "ocean_id": 6,
+      "min": 6,
+      "max": 10,
+      "avg": 8,
+      "created_at": "2020-04-11 18:00:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-04-12 8:30:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-04-12 8:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 6,
+      "max": 8,
+      "avg": 7,
+      "created_at": "2020-04-12 16:30:11"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-04-13 18:30:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": 7,
+      "max": 10,
+      "avg": 8.5,
+      "created_at": "2020-04-14 8:00:00"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-04-14 9:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-04-14 14:00:13"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-04-14 17:30:14"
+    },
+    {
+      "ocean_id": 2,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-04-15 8:30:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-04-15 16:30:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 13,
+      "avg": 11.5,
+      "created_at": "2020-04-15 17:00:12"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 5,
+      "avg": 2.5,
+      "created_at": "2020-04-16 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-04-16 8:30:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 12,
+      "avg": 8.5,
+      "created_at": "2020-04-18 16:00:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-04-20 8:00:02"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-04-26 12:00:07"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-04-30 14:00:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-05-02 16:00:07"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-05-03 15:00:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-05-04 16:00:17"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-05-05 17:30:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-05-06 14:30:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-05-07 22:30:26"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-05-08 17:00:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-05-09 15:00:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-05-11 12:30:13"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-05-11 17:30:10"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 12,
+      "avg": 8.5,
+      "created_at": "2020-05-12 18:30:11"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-05-13 12:30:09"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-05-14 14:30:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-05-14 17:00:06"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-05-15 12:30:06"
+    },
+    {
+      "ocean_id": 6,
+      "min": 6,
+      "max": 12,
+      "avg": 9,
+      "created_at": "2020-05-16 16:30:15"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-05-17 14:00:05"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-05-18 13:00:09"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-05-20 19:30:07"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-05-21 14:30:07"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-05-21 14:30:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-05-23 14:30:06"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-05-24 14:00:09"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-05-25 17:01:22"
+    },
+    {
+      "ocean_id": 8,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-05-27 15:00:12"
+    },
+    {
+      "ocean_id": 6,
+      "min": 6,
+      "max": 8,
+      "avg": 7,
+      "created_at": "2020-05-27 17:30:10"
+    },
+    {
+      "ocean_id": 2,
+      "min": 6,
+      "max": 7,
+      "avg": 6.5,
+      "created_at": "2020-05-28 8:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-05-28 12:30:06"
+    },
+    {
+      "ocean_id": 8,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-05-28 13:30:12"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-05-29 9:00:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-05-29 17:00:07"
+    },
+    {
+      "ocean_id": 8,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-05-30 14:00:11"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-05-31 7:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-05-31 13:00:12"
+    },
+    {
+      "ocean_id": 5,
+      "min": 18,
+      "max": 18,
+      "avg": 18,
+      "created_at": "2020-06-02 14:30:07"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-06-02 15:00:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-06-03 7:00:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-06-03 15:30:09"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-06-03 16:00:46"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 12,
+      "avg": 8.5,
+      "created_at": "2020-06-04 16:30:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-06-05 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-06-05 15:30:11"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-06-05 17:00:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-06-06 7:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 12,
+      "max": 18,
+      "avg": 15,
+      "created_at": "2020-06-06 13:30:12"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-06-06 18:00:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-06-07 7:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-06-07 13:30:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-06-07 17:00:09"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-06-08 16:30:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-06-08 16:30:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-06-09 7:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 18,
+      "avg": 14,
+      "created_at": "2020-06-09 15:00:18"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-06-10 16:00:25"
+    },
+    {
+      "ocean_id": 8,
+      "min": 7,
+      "max": 15,
+      "avg": 11,
+      "created_at": "2020-06-10 17:00:21"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-06-11 7:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-06-11 13:30:06"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-06-11 13:30:07"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 20,
+      "avg": 16,
+      "created_at": "2020-06-11 18:30:06"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-06-12 8:00:07"
+    },
+    {
+      "ocean_id": 7,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2020-06-12 15:00:09"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-06-12 15:30:07"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-06-12 17:00:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 2,
+      "max": 10,
+      "avg": 6,
+      "created_at": "2020-06-13 14:30:11"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-06-13 15:30:06"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-06-13 17:30:10"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-06-13 17:30:10"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-06-14 13:30:06"
+    },
+    {
+      "ocean_id": 7,
+      "min": 6,
+      "max": 8,
+      "avg": 7,
+      "created_at": "2020-06-14 16:00:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-06-15 7:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-06-15 7:30:07"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-06-15 12:00:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-06-16 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-06-16 8:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-06-16 14:30:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2020-06-17 15:00:12"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 6,
+      "avg": 5.5,
+      "created_at": "2020-06-17 15:30:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-06-18 7:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-06-18 15:00:06"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-06-18 15:30:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 7,
+      "avg": 6,
+      "created_at": "2020-06-18 17:00:11"
+    },
+    {
+      "ocean_id": 3,
+      "min": 6,
+      "max": 10,
+      "avg": 8,
+      "created_at": "2020-06-19 9:00:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-06-19 15:30:07"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-06-19 16:00:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 6,
+      "max": 7,
+      "avg": 6.5,
+      "created_at": "2020-06-19 17:00:10"
+    },
+    {
+      "ocean_id": 3,
+      "min": 5,
+      "max": 7,
+      "avg": 6,
+      "created_at": "2020-06-20 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-06-21 6:30:09"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-06-21 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-06-21 14:30:17"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-06-21 18:00:07"
+    },
+    {
+      "ocean_id": 7,
+      "min": 7,
+      "max": 12,
+      "avg": 9.5,
+      "created_at": "2020-06-22 7:00:09"
+    },
+    {
+      "ocean_id": 6,
+      "min": 1,
+      "max": 10,
+      "avg": 5.5,
+      "created_at": "2020-06-22 16:00:12"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-06-22 16:30:20"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-06-23 7:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-06-23 14:30:11"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 12,
+      "avg": 8.5,
+      "created_at": "2020-06-23 16:00:14"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-06-24 7:30:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-06-24 9:00:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-06-24 16:30:08"
+    },
+    {
+      "ocean_id": 8,
+      "min": 7,
+      "max": 15,
+      "avg": 11,
+      "created_at": "2020-06-24 16:30:11"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 18,
+      "avg": 16.5,
+      "created_at": "2020-06-24 17:00:06"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-06-25 12:00:06"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-06-25 15:30:15"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-06-25 16:30:12"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-06-25 17:30:27"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-06-26 16:30:15"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-06-26 16:30:15"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-06-27 6:30:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-06-27 7:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-06-27 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2020-06-27 16:30:12"
+    },
+    {
+      "ocean_id": 7,
+      "min": 9,
+      "max": 10,
+      "avg": 9.5,
+      "created_at": "2020-06-27 18:00:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-06-28 7:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 9,
+      "max": 10,
+      "avg": 9.5,
+      "created_at": "2020-06-28 7:30:08"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-06-28 8:30:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 20,
+      "avg": 16,
+      "created_at": "2020-06-28 16:00:06"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-06-28 16:30:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 2,
+      "max": 2,
+      "avg": 2,
+      "created_at": "2020-06-29 8:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-06-29 15:00:23"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-06-29 17:00:15"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 6,
+      "avg": 5.5,
+      "created_at": "2020-06-29 17:00:16"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-06-30 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-06-30 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-06-30 15:00:12"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-06-30 16:00:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 6,
+      "max": 7,
+      "avg": 6.5,
+      "created_at": "2020-06-30 16:30:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 6,
+      "avg": 5.5,
+      "created_at": "2020-07-01 7:30:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-07-01 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-07-01 9:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-07-01 12:00:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-07-02 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-07-02 8:30:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-07-02 9:00:00"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-07-03 6:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2020-07-03 17:30:13"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-07-03 18:00:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-07-04 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-07-04 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 7,
+      "max": 7,
+      "avg": 7,
+      "created_at": "2020-07-04 8:30:01"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-07-05 7:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-07-05 10:30:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-07-05 12:00:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 1,
+      "max": 5,
+      "avg": 3,
+      "created_at": "2020-07-05 13:30:07"
+    },
+    {
+      "ocean_id": 8,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-07-05 14:30:17"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-07-06 7:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 7,
+      "max": 10,
+      "avg": 8.5,
+      "created_at": "2020-07-06 8:30:01"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-07-07 6:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 8,
+      "avg": 4,
+      "created_at": "2020-07-07 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-07-07 8:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 18,
+      "avg": 15,
+      "created_at": "2020-07-07 16:00:07"
+    },
+    {
+      "ocean_id": 2,
+      "min": 7,
+      "max": 15,
+      "avg": 11,
+      "created_at": "2020-07-08 8:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-07-08 9:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 30,
+      "avg": 21,
+      "created_at": "2020-07-08 15:30:09"
+    },
+    {
+      "ocean_id": 3,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-07-09 8:30:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-07-09 17:30:13"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-07-10 6:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 7,
+      "avg": 5,
+      "created_at": "2020-07-10 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 5,
+      "max": 7,
+      "avg": 6,
+      "created_at": "2020-07-10 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-07-10 16:00:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 12,
+      "avg": 8,
+      "created_at": "2020-07-10 16:30:10"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-07-10 17:00:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-07-11 8:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-07-11 8:00:02"
+    },
+    {
+      "ocean_id": 3,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2020-07-11 8:30:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-07-11 16:30:07"
+    },
+    {
+      "ocean_id": 7,
+      "min": 3,
+      "max": 6,
+      "avg": 4.5,
+      "created_at": "2020-07-11 16:30:10"
+    },
+    {
+      "ocean_id": 6,
+      "min": 0,
+      "max": 8,
+      "avg": 4,
+      "created_at": "2020-07-11 18:30:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 4,
+      "avg": 3.5,
+      "created_at": "2020-07-12 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-07-12 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-07-12 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-07-12 15:00:12"
+    },
+    {
+      "ocean_id": 7,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-07-12 16:00:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2020-07-13 8:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2020-07-13 15:00:13"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 6,
+      "avg": 5,
+      "created_at": "2020-07-13 17:30:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-07-14 7:30:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-07-14 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 6,
+      "avg": 5,
+      "created_at": "2020-07-14 8:00:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 2,
+      "max": 10,
+      "avg": 6,
+      "created_at": "2020-07-14 16:00:08"
+    },
+    {
+      "ocean_id": 6,
+      "min": 2,
+      "max": 8,
+      "avg": 5,
+      "created_at": "2020-07-14 18:30:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-07-15 7:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 4,
+      "max": 10,
+      "avg": 7,
+      "created_at": "2020-07-15 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2020-07-15 9:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 3,
+      "max": 6,
+      "avg": 4.5,
+      "created_at": "2020-07-15 15:00:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-07-15 15:30:12"
+    },
+    {
+      "ocean_id": 6,
+      "min": 1,
+      "max": 10,
+      "avg": 5.5,
+      "created_at": "2020-07-15 17:30:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 4,
+      "max": 4,
+      "avg": 4,
+      "created_at": "2020-07-16 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2020-07-16 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 6,
+      "avg": 5,
+      "created_at": "2020-07-16 15:00:09"
+    },
+    {
+      "ocean_id": 8,
+      "min": 2,
+      "max": 10,
+      "avg": 6,
+      "created_at": "2020-07-16 15:30:12"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-07-16 17:00:12"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 13,
+      "avg": 10.5,
+      "created_at": "2020-07-17 8:30:02"
+    },
+    {
+      "ocean_id": 7,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2020-07-17 15:30:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-07-17 17:00:17"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-07-17 17:30:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-07-18 6:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-07-18 8:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-07-18 8:00:02"
+    },
+    {
+      "ocean_id": 3,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-07-18 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 1,
+      "max": 5,
+      "avg": 3,
+      "created_at": "2020-07-18 15:00:09"
+    },
+    {
+      "ocean_id": 6,
+      "min": 0,
+      "max": 5,
+      "avg": 2.5,
+      "created_at": "2020-07-18 17:30:11"
+    },
+    {
+      "ocean_id": 5,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-07-18 20:00:06"
+    },
+    {
+      "ocean_id": 1,
+      "min": 1,
+      "max": 1,
+      "avg": 1,
+      "created_at": "2020-07-19 6:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2020-07-19 8:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-07-19 15:00:11"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-07-19 15:30:06"
+    },
+    {
+      "ocean_id": 6,
+      "min": 2,
+      "max": 8,
+      "avg": 5,
+      "created_at": "2020-07-19 15:30:07"
+    },
+    {
+      "ocean_id": 7,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-07-19 16:00:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-07-20 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-07-20 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-07-20 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-07-20 16:00:12"
+    },
+    {
+      "ocean_id": 4,
+      "min": 7,
+      "max": 7,
+      "avg": 7,
+      "created_at": "2020-07-20 16:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 1,
+      "max": 10,
+      "avg": 5.5,
+      "created_at": "2020-07-20 17:00:10"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 6,
+      "avg": 5.5,
+      "created_at": "2020-07-20 17:00:10"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 6,
+      "avg": 5,
+      "created_at": "2020-07-21 15:30:12"
+    },
+    {
+      "ocean_id": 6,
+      "min": 1,
+      "max": 12,
+      "avg": 6.5,
+      "created_at": "2020-07-21 18:00:12"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2020-07-21 18:00:17"
+    },
+    {
+      "ocean_id": 2,
+      "min": 7,
+      "max": 12,
+      "avg": 9.5,
+      "created_at": "2020-07-22 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-07-22 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-07-22 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 20,
+      "avg": 12.5,
+      "created_at": "2020-07-22 17:30:13"
+    },
+    {
+      "ocean_id": 6,
+      "min": 1,
+      "max": 10,
+      "avg": 5.5,
+      "created_at": "2020-07-22 18:00:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 4,
+      "max": 4,
+      "avg": 4,
+      "created_at": "2020-07-23 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-07-23 8:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2020-07-23 16:30:12"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 8,
+      "avg": 6,
+      "created_at": "2020-07-23 17:30:09"
+    },
+    {
+      "ocean_id": 4,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-07-24 17:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-07-24 17:30:14"
+    },
+    {
+      "ocean_id": 7,
+      "min": 3,
+      "max": 6,
+      "avg": 4.5,
+      "created_at": "2020-07-24 18:30:08"
+    },
+    {
+      "ocean_id": 3,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-07-25 8:30:01"
+    },
+    {
+      "ocean_id": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7,
+      "created_at": "2020-07-26 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 20,
+      "avg": 11.5,
+      "created_at": "2020-07-26 8:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 20,
+      "max": 30,
+      "avg": 25,
+      "created_at": "2020-07-26 14:30:13"
+    },
+    {
+      "ocean_id": 7,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-07-26 18:00:10"
+    },
+    {
+      "ocean_id": 4,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-07-27 8:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-07-27 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 25,
+      "avg": 20,
+      "created_at": "2020-07-27 15:00:16"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-07-27 16:30:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 6,
+      "avg": 5,
+      "created_at": "2020-07-27 18:30:13"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 8,
+      "avg": 6,
+      "created_at": "2020-07-28 7:00:07"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-07-28 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-07-28 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 25,
+      "avg": 17.5,
+      "created_at": "2020-07-28 15:00:10"
+    },
+    {
+      "ocean_id": 6,
+      "min": 1,
+      "max": 5,
+      "avg": 3,
+      "created_at": "2020-07-28 17:00:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-07-29 7:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 15,
+      "avg": 9,
+      "created_at": "2020-07-29 8:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 5,
+      "max": 12,
+      "avg": 8.5,
+      "created_at": "2020-07-29 9:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2020-07-29 15:30:18"
+    },
+    {
+      "ocean_id": 6,
+      "min": 0,
+      "max": 8,
+      "avg": 4,
+      "created_at": "2020-07-29 16:30:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 10,
+      "avg": 7,
+      "created_at": "2020-07-29 17:30:13"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-07-29 18:00:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 2,
+      "max": 2,
+      "avg": 2,
+      "created_at": "2020-07-30 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-07-30 8:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-07-30 16:30:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 7,
+      "avg": 5.5,
+      "created_at": "2020-07-30 16:30:12"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-07-30 17:00:19"
+    },
+    {
+      "ocean_id": 1,
+      "min": 1.5,
+      "max": 1.5,
+      "avg": 1.5,
+      "created_at": "2020-07-31 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 8,
+      "avg": 4,
+      "created_at": "2020-07-31 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-07-31 8:30:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-07-31 18:00:15"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2020-07-31 18:00:17"
+    },
+    {
+      "ocean_id": 1,
+      "min": 1,
+      "max": 1,
+      "avg": 1,
+      "created_at": "2020-08-01 6:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": null,
+      "avg": 5,
+      "created_at": "2020-08-01 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-08-01 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-08-01 16:00:09"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-08-01 18:00:07"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-08-02 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2020-08-02 8:30:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-08-02 15:30:06"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 8,
+      "avg": 6,
+      "created_at": "2020-08-02 16:30:08"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 12,
+      "avg": 8.5,
+      "created_at": "2020-08-02 19:00:10"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 8,
+      "avg": 6,
+      "created_at": "2020-08-03 7:00:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 8,
+      "avg": 6,
+      "created_at": "2020-08-03 7:30:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 5,
+      "avg": 2.5,
+      "created_at": "2020-08-03 8:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 1,
+      "max": 2,
+      "avg": 1.5,
+      "created_at": "2020-08-03 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 1,
+      "max": null,
+      "avg": 0.5,
+      "created_at": "2020-08-03 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 30,
+      "max": 10,
+      "avg": 20,
+      "created_at": "2020-08-03 16:30:11"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-08-03 17:00:22"
+    },
+    {
+      "ocean_id": 1,
+      "min": 1.5,
+      "max": 1.5,
+      "avg": 1.5,
+      "created_at": "2020-08-04 7:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 7,
+      "avg": 5.5,
+      "created_at": "2020-08-04 7:00:08"
+    },
+    {
+      "ocean_id": 4,
+      "min": 3,
+      "max": 15,
+      "avg": 9,
+      "created_at": "2020-08-04 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 3,
+      "max": 15,
+      "avg": 9,
+      "created_at": "2020-08-04 9:00:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 1,
+      "max": 10,
+      "avg": 5.5,
+      "created_at": "2020-08-04 16:30:16"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 8,
+      "avg": 6,
+      "created_at": "2020-08-04 17:00:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 7,
+      "avg": 5.5,
+      "created_at": "2020-08-05 7:00:07"
+    },
+    {
+      "ocean_id": 2,
+      "min": 2,
+      "max": 10,
+      "avg": 6,
+      "created_at": "2020-08-05 8:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 5,
+      "max": 20,
+      "avg": 12.5,
+      "created_at": "2020-08-05 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 3,
+      "max": null,
+      "avg": 1.5,
+      "created_at": "2020-08-05 9:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 8,
+      "avg": 6,
+      "created_at": "2020-08-05 18:00:42"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-08-05 19:00:23"
+    },
+    {
+      "ocean_id": 3,
+      "min": 4,
+      "max": 10,
+      "avg": 7,
+      "created_at": "2020-08-06 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-08-06 16:00:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-08-07 7:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-08-07 7:30:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": 5,
+      "max": null,
+      "avg": 2.5,
+      "created_at": "2020-08-07 8:00:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-08-07 17:00:10"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 8,
+      "avg": 6,
+      "created_at": "2020-08-07 18:00:08"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-08-07 19:00:16"
+    },
+    {
+      "ocean_id": 4,
+      "min": 5,
+      "max": 20,
+      "avg": 12.5,
+      "created_at": "2020-08-08 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-08-08 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2020-08-08 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 12,
+      "avg": 8.5,
+      "created_at": "2020-08-08 18:00:10"
+    },
+    {
+      "ocean_id": 6,
+      "min": 1,
+      "max": 8,
+      "avg": 4.5,
+      "created_at": "2020-08-08 19:00:16"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-08-09 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-08-09 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 7,
+      "max": 20,
+      "avg": 13.5,
+      "created_at": "2020-08-09 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 5,
+      "max": 6,
+      "avg": 5.5,
+      "created_at": "2020-08-09 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 3,
+      "max": 15,
+      "avg": 9,
+      "created_at": "2020-08-09 14:00:10"
+    },
+    {
+      "ocean_id": 6,
+      "min": 1,
+      "max": 10,
+      "avg": 5.5,
+      "created_at": "2020-08-09 18:00:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-08-10 6:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-08-10 6:30:07"
+    },
+    {
+      "ocean_id": 4,
+      "min": 5,
+      "max": 20,
+      "avg": 12.5,
+      "created_at": "2020-08-10 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-08-10 8:30:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-08-10 17:00:07"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 8,
+      "avg": 6,
+      "created_at": "2020-08-10 17:30:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-08-11 7:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-08-11 17:30:18"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-08-11 19:00:14"
+    },
+    {
+      "ocean_id": 5,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-08-11 21:30:11"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 5,
+      "avg": 2.5,
+      "created_at": "2020-08-12 8:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 3,
+      "max": null,
+      "avg": 1.5,
+      "created_at": "2020-08-12 9:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-08-12 16:00:12"
+    },
+    {
+      "ocean_id": 5,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-08-12 17:00:05"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-08-13 14:30:08"
+    },
+    {
+      "ocean_id": 8,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-08-13 16:00:11"
+    },
+    {
+      "ocean_id": 6,
+      "min": 1,
+      "max": 10,
+      "avg": 5.5,
+      "created_at": "2020-08-13 18:00:06"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-08-14 6:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-08-14 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-08-14 8:30:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 7,
+      "max": 20,
+      "avg": 13.5,
+      "created_at": "2020-08-14 15:30:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-08-14 18:00:06"
+    },
+    {
+      "ocean_id": 8,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-08-15 14:30:10"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": null,
+      "avg": 5,
+      "created_at": "2020-08-15 15:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-08-15 16:00:06"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-08-16 7:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2020-08-16 15:00:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-08-17 6:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 2,
+      "max": 10,
+      "avg": 6,
+      "created_at": "2020-08-17 18:00:14"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-08-18 7:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 25,
+      "avg": 15,
+      "created_at": "2020-08-18 18:00:15"
+    },
+    {
+      "ocean_id": 2,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-08-19 8:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-08-19 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-08-19 17:30:09"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-08-19 17:30:15"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-08-20 7:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-08-20 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-08-20 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 30,
+      "avg": 17.5,
+      "created_at": "2020-08-20 17:00:13"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-08-20 19:00:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-08-21 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-08-21 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-08-21 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-08-21 16:00:14"
+    },
+    {
+      "ocean_id": 6,
+      "min": 4,
+      "max": 10,
+      "avg": 7,
+      "created_at": "2020-08-21 17:00:18"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 25,
+      "avg": 20,
+      "created_at": "2020-08-21 19:00:07"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-08-22 7:30:02"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-08-22 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-08-22 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-08-22 17:00:17"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-08-22 17:30:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-08-22 22:00:06"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-08-23 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-08-23 8:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-08-23 18:00:18"
+    },
+    {
+      "ocean_id": 1,
+      "min": 4,
+      "max": 4,
+      "avg": 4,
+      "created_at": "2020-08-24 7:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-08-24 9:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-08-24 17:00:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-08-24 17:30:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-08-25 7:30:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-08-25 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2020-08-25 15:30:20"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-08-25 19:00:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 12,
+      "avg": 6,
+      "created_at": "2020-08-26 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 4,
+      "max": 8,
+      "avg": 6,
+      "created_at": "2020-08-26 17:00:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-08-26 17:30:15"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 15,
+      "avg": 9,
+      "created_at": "2020-08-26 19:00:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 3,
+      "max": 15,
+      "avg": 9,
+      "created_at": "2020-08-27 18:00:13"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-08-28 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-08-28 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 30,
+      "avg": 22.5,
+      "created_at": "2020-08-28 17:00:18"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-08-28 17:30:10"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-08-28 19:00:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 4,
+      "max": 4,
+      "avg": 4,
+      "created_at": "2020-08-29 7:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-08-29 7:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 25,
+      "avg": 20,
+      "created_at": "2020-08-29 16:00:18"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-08-30 6:30:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-08-30 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-08-30 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 7,
+      "max": 15,
+      "avg": 11,
+      "created_at": "2020-08-30 8:30:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-08-30 15:30:09"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 25,
+      "avg": 17.5,
+      "created_at": "2020-08-30 15:30:15"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-08-30 17:30:14"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-08-31 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-08-31 17:30:09"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 25,
+      "avg": 20,
+      "created_at": "2020-08-31 17:30:12"
+    },
+    {
+      "ocean_id": 5,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-08-31 21:30:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-09-01 7:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-09-01 9:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-09-01 16:00:10"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 15,
+      "avg": 9,
+      "created_at": "2020-09-01 17:00:08"
+    },
+    {
+      "ocean_id": 8,
+      "min": 20,
+      "max": 30,
+      "avg": 25,
+      "created_at": "2020-09-01 17:30:14"
+    },
+    {
+      "ocean_id": 5,
+      "min": 3,
+      "max": 20,
+      "avg": 11.5,
+      "created_at": "2020-09-01 22:30:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-09-02 7:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-09-02 7:00:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-09-02 8:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 25,
+      "avg": 18.5,
+      "created_at": "2020-09-02 18:00:15"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-09-03 8:00:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 2,
+      "max": 15,
+      "avg": 8.5,
+      "created_at": "2020-09-03 17:30:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 30,
+      "avg": 22.5,
+      "created_at": "2020-09-03 18:30:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-09-04 6:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 7,
+      "max": 15,
+      "avg": 11,
+      "created_at": "2020-09-04 8:30:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-09-04 23:00:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-09-05 6:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-09-05 8:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-09-05 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-09-05 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-09-05 14:00:11"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-09-05 15:00:07"
+    },
+    {
+      "ocean_id": 6,
+      "min": 0,
+      "max": 8,
+      "avg": 4,
+      "created_at": "2020-09-05 21:30:08"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-09-06 8:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 12,
+      "avg": 6,
+      "created_at": "2020-09-06 8:30:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 0,
+      "max": 5,
+      "avg": 2.5,
+      "created_at": "2020-09-06 17:30:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-09-07 8:30:01"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-09-08 7:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-09-08 8:30:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 2,
+      "max": 6,
+      "avg": 4,
+      "created_at": "2020-09-08 16:30:14"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": null,
+      "avg": 7.5,
+      "created_at": "2020-09-09 8:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-09-09 17:00:24"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 12,
+      "avg": 8.5,
+      "created_at": "2020-09-09 17:30:13"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-09-10 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-09-10 8:30:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-09-10 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-09-10 16:30:15"
+    },
+    {
+      "ocean_id": 7,
+      "min": 6,
+      "max": 10,
+      "avg": 8,
+      "created_at": "2020-09-10 17:00:09"
+    },
+    {
+      "ocean_id": 6,
+      "min": 2,
+      "max": 5,
+      "avg": 3.5,
+      "created_at": "2020-09-10 18:30:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-09-11 8:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-09-11 17:00:21"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-09-11 17:30:11"
+    },
+    {
+      "ocean_id": 1,
+      "min": 1,
+      "max": 1,
+      "avg": 1,
+      "created_at": "2020-09-12 7:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-09-12 7:00:10"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-09-12 7:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 20,
+      "avg": 10,
+      "created_at": "2020-09-12 8:00:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 2,
+      "max": 8,
+      "avg": 5,
+      "created_at": "2020-09-12 17:30:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-09-12 18:00:09"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-09-13 8:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-09-13 17:00:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 4,
+      "max": 4,
+      "avg": 4,
+      "created_at": "2020-09-14 7:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 13,
+      "max": 20,
+      "avg": 16.5,
+      "created_at": "2020-09-14 15:30:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-09-15 7:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 25,
+      "avg": 17.5,
+      "created_at": "2020-09-15 17:00:16"
+    },
+    {
+      "ocean_id": 2,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-09-16 8:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-09-16 8:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-09-16 9:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-09-16 17:00:13"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-09-16 18:00:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-09-17 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-09-17 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 7,
+      "max": 8,
+      "avg": 7.5,
+      "created_at": "2020-09-17 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 25,
+      "avg": 20,
+      "created_at": "2020-09-17 17:00:18"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-09-18 8:00:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 12,
+      "avg": 8.5,
+      "created_at": "2020-09-18 17:30:16"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-09-19 6:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": null,
+      "avg": 7.5,
+      "created_at": "2020-09-19 7:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-09-19 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 25,
+      "avg": 17.5,
+      "created_at": "2020-09-19 16:30:17"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 18,
+      "avg": 15,
+      "created_at": "2020-09-19 17:00:09"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-09-19 19:30:07"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-09-19 22:00:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-09-20 7:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-09-20 16:30:22"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-09-20 18:30:06"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-09-20 18:30:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-09-21 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-09-22 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-09-22 9:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-09-23 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-09-23 16:00:09"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-09-24 17:30:10"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-09-25 17:00:13"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 12,
+      "avg": 8.5,
+      "created_at": "2020-09-25 17:30:09"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-09-26 8:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 25,
+      "max": 25,
+      "avg": 25,
+      "created_at": "2020-09-26 16:30:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 15,
+      "avg": 14,
+      "created_at": "2020-09-26 17:30:08"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-09-26 20:00:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-09-27 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-09-27 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-09-27 8:30:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-09-27 16:00:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 15,
+      "max": 18,
+      "avg": 16.5,
+      "created_at": "2020-09-27 17:00:09"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-09-27 17:00:11"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-09-28 7:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-09-28 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2020-09-28 15:30:13"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-09-28 18:00:14"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-09-29 7:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-09-29 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-09-29 16:30:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2020-09-29 17:00:20"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-09-30 7:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-09-30 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-09-30 15:30:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 25,
+      "avg": 20,
+      "created_at": "2020-09-30 16:30:17"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-10-01 15:30:13"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-10-01 17:00:21"
+    },
+    {
+      "ocean_id": 7,
+      "min": 15,
+      "max": 18,
+      "avg": 16.5,
+      "created_at": "2020-10-01 18:00:13"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-10-02 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-10-02 8:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 8,
+      "avg": 4,
+      "created_at": "2020-10-03 8:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2020-10-03 17:00:11"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 12,
+      "avg": 8.5,
+      "created_at": "2020-10-03 18:30:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-10-04 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-10-04 8:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-10-04 15:00:12"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-10-05 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-10-05 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-10-05 17:00:46"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-10-05 18:00:14"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-10-06 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2020-10-07 7:00:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-10-07 17:30:11"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-10-10 17:30:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-10-11 15:30:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-10-12 15:00:11"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 5,
+      "avg": 4,
+      "created_at": "2020-10-12 18:00:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-10-13 7:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-10-13 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-10-13 8:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-10-13 15:30:16"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-10-13 16:30:18"
+    },
+    {
+      "ocean_id": 1,
+      "min": 4,
+      "max": 4,
+      "avg": 4,
+      "created_at": "2020-10-14 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-10-14 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-10-14 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-10-14 15:30:18"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-10-14 17:30:12"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-10-15 8:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 12,
+      "avg": 6,
+      "created_at": "2020-10-16 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-10-16 18:00:12"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 15,
+      "avg": 14,
+      "created_at": "2020-10-17 18:30:08"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-10-18 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-10-18 14:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-10-18 16:00:10"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-10-18 18:30:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-10-19 6:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-10-19 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-10-19 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-10-19 17:00:13"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 13,
+      "avg": 11.5,
+      "created_at": "2020-10-19 17:30:15"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 25,
+      "avg": 17.5,
+      "created_at": "2020-10-19 17:30:17"
+    },
+    {
+      "ocean_id": 1,
+      "min": 9,
+      "max": 9,
+      "avg": 9,
+      "created_at": "2020-10-20 7:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 18,
+      "avg": 16.5,
+      "created_at": "2020-10-20 15:00:18"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-10-20 17:00:51"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-10-21 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-10-21 8:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-10-21 8:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-10-21 9:00:02"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 10,
+      "avg": 6.5,
+      "created_at": "2020-10-21 17:30:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-10-21 17:30:09"
+    },
+    {
+      "ocean_id": 8,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-10-22 14:30:12"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-10-23 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-10-23 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-10-23 16:30:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-10-23 16:30:12"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-10-23 17:30:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-10-24 7:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-10-24 7:30:00"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-10-25 7:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-10-25 7:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-10-25 15:30:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 6,
+      "max": 10,
+      "avg": 8,
+      "created_at": "2020-10-25 17:30:10"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-10-25 22:00:08"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 7,
+      "avg": 6,
+      "created_at": "2020-10-26 15:00:17"
+    },
+    {
+      "ocean_id": 7,
+      "min": 7,
+      "max": 8,
+      "avg": 7.5,
+      "created_at": "2020-10-26 18:00:11"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-10-27 6:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 7,
+      "max": 8,
+      "avg": 7.5,
+      "created_at": "2020-10-27 7:30:08"
+    },
+    {
+      "ocean_id": 8,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-10-27 16:30:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 7,
+      "max": 8,
+      "avg": 7.5,
+      "created_at": "2020-10-27 18:00:09"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-10-27 20:00:06"
+    },
+    {
+      "ocean_id": 1,
+      "min": 7,
+      "max": 7,
+      "avg": 7,
+      "created_at": "2020-10-28 7:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 7,
+      "max": 8,
+      "avg": 7.5,
+      "created_at": "2020-10-28 7:00:09"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-10-28 8:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-10-28 8:30:02"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-10-28 15:00:13"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-10-28 17:00:11"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-10-29 7:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-10-29 14:30:16"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-10-29 16:00:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-10-30 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": null,
+      "avg": 5,
+      "created_at": "2020-10-30 8:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-10-30 14:30:12"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-10-30 17:00:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-10-31 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-10-31 8:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-10-31 15:30:13"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2020-10-31 17:00:10"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-10-31 17:30:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-11-01 6:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-11-01 17:00:15"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-11-01 17:30:11"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-11-02 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-11-02 16:30:11"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-11-02 17:00:18"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-11-03 6:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-11-03 7:00:08"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-11-03 7:30:03"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 8,
+      "avg": 4,
+      "created_at": "2020-11-03 8:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-11-03 15:30:30"
+    },
+    {
+      "ocean_id": 6,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-11-03 17:30:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-11-04 7:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 12,
+      "max": 30,
+      "avg": 21,
+      "created_at": "2020-11-04 14:30:12"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-11-04 15:00:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 11,
+      "max": 12,
+      "avg": 11.5,
+      "created_at": "2020-11-04 15:30:12"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-11-05 13:30:14"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-11-05 18:00:15"
+    },
+    {
+      "ocean_id": 8,
+      "min": 7,
+      "max": 7,
+      "avg": 7,
+      "created_at": "2020-11-06 14:30:16"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-11-06 16:00:09"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 15,
+      "avg": 9,
+      "created_at": "2020-11-06 16:31:07"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-11-06 19:00:12"
+    },
+    {
+      "ocean_id": 2,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-11-07 8:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-11-07 15:00:17"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 6,
+      "avg": 4.5,
+      "created_at": "2020-11-07 18:00:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-11-08 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 8,
+      "avg": 4,
+      "created_at": "2020-11-08 8:00:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-11-08 15:00:07"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-11-09 7:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-11-09 8:30:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-11-09 12:00:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 6,
+      "max": 7,
+      "avg": 6.5,
+      "created_at": "2020-11-09 17:00:10"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-11-10 8:00:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2020-11-10 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-11-10 17:00:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 7,
+      "avg": 6,
+      "created_at": "2020-11-10 17:00:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 9,
+      "avg": 4.5,
+      "created_at": "2020-11-11 8:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-11-11 8:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-11-11 9:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 6,
+      "max": 7,
+      "avg": 6.5,
+      "created_at": "2020-11-11 16:30:09"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-11-12 8:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 6,
+      "avg": 3,
+      "created_at": "2020-11-12 8:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 5,
+      "max": 7,
+      "avg": 6,
+      "created_at": "2020-11-13 7:00:08"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-11-13 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 15,
+      "avg": 10,
+      "created_at": "2020-11-13 17:30:16"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-11-14 6:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-11-14 8:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 3,
+      "max": 8,
+      "avg": 5.5,
+      "created_at": "2020-11-14 14:30:10"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-11-14 16:00:07"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-11-15 15:00:08"
+    },
+    {
+      "ocean_id": 8,
+      "min": 5,
+      "max": 10,
+      "avg": 7.5,
+      "created_at": "2020-11-15 15:00:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 7,
+      "max": 8,
+      "avg": 7.5,
+      "created_at": "2020-11-15 16:00:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-11-16 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 12,
+      "avg": 6,
+      "created_at": "2020-11-16 8:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-11-16 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 7,
+      "max": 10,
+      "avg": 8.5,
+      "created_at": "2020-11-16 15:00:08"
+    },
+    {
+      "ocean_id": 8,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-11-16 16:00:14"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-11-17 7:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-11-17 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-11-17 15:00:08"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2020-11-17 17:00:09"
+    },
+    {
+      "ocean_id": 8,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-11-17 17:00:12"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-11-18 8:30:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-11-18 16:00:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-11-18 16:30:15"
+    },
+    {
+      "ocean_id": 2,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-11-19 8:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-11-19 16:00:12"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-11-19 20:30:11"
+    },
+    {
+      "ocean_id": 4,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-11-20 15:00:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-11-20 16:30:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-11-21 7:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-11-21 15:00:12"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-11-21 17:30:08"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-11-22 17:00:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 5,
+      "max": 5,
+      "avg": 5,
+      "created_at": "2020-11-23 7:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-11-23 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 13,
+      "avg": 11.5,
+      "created_at": "2020-11-23 16:00:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2020-11-24 21:00:12"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-11-24 21:30:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 3,
+      "max": 3,
+      "avg": 3,
+      "created_at": "2020-11-25 7:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2020-11-25 9:30:02"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-11-25 19:00:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-11-26 7:00:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-11-27 7:30:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-11-27 16:30:14"
+    },
+    {
+      "ocean_id": 1,
+      "min": 6,
+      "max": 6,
+      "avg": 6,
+      "created_at": "2020-11-28 7:00:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-11-28 7:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-11-28 15:30:09"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-11-28 16:30:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2020-11-29 7:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-11-29 8:00:02"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-11-29 15:00:12"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-11-29 16:30:09"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-11-30 7:00:10"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-11-30 7:30:01"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-11-30 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-11-30 16:30:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-11-30 17:00:13"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-12-01 15:30:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-12-02 7:00:10"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-12-03 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2020-12-03 13:30:09"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-12-04 7:30:01"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2020-12-05 7:00:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 18,
+      "avg": 16.5,
+      "created_at": "2020-12-05 14:00:14"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-12-05 16:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2020-12-05 20:00:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-12-06 8:00:00"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-12-06 14:00:13"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 18,
+      "avg": 16.5,
+      "created_at": "2020-12-06 15:00:10"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 20,
+      "avg": 15,
+      "created_at": "2020-12-06 16:00:11"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 15,
+      "avg": 14,
+      "created_at": "2020-12-07 7:00:09"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-12-07 12:30:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-12-07 17:00:44"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 15,
+      "avg": 14,
+      "created_at": "2020-12-08 7:30:08"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2020-12-09 7:00:09"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-12-09 14:00:10"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2020-12-10 8:00:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2020-12-10 15:30:13"
+    },
+    {
+      "ocean_id": 8,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-12-12 16:00:14"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-12-13 8:00:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-12-13 16:00:06"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-12-14 12:30:12"
+    },
+    {
+      "ocean_id": 5,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-12-15 16:30:10"
+    },
+    {
+      "ocean_id": 2,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-12-16 8:00:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-12-16 14:00:08"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-12-18 8:00:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 20,
+      "avg": 10,
+      "created_at": "2020-12-19 8:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-12-20 8:00:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-12-20 8:00:03"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 18,
+      "avg": 16.5,
+      "created_at": "2020-12-20 18:30:05"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-12-21 8:30:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-12-21 21:00:10"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 20,
+      "avg": 10,
+      "created_at": "2020-12-22 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-12-22 9:00:00"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-12-22 14:30:08"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2020-12-25 7:30:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2020-12-26 8:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2020-12-26 16:30:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2020-12-28 8:30:01"
+    },
+    {
+      "ocean_id": 8,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2020-12-29 14:30:21"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 20,
+      "avg": 10,
+      "created_at": "2020-12-30 8:30:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2020-12-30 17:00:13"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2020-12-31 8:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2021-01-05 16:30:14"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2021-01-06 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2021-01-06 17:00:21"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2021-01-09 7:30:13"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2021-01-09 8:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 15,
+      "avg": 14,
+      "created_at": "2021-01-11 16:30:14"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2021-01-12 17:00:34"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2021-01-13 7:30:01"
+    },
+    {
+      "ocean_id": 4,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2021-01-13 8:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 13,
+      "max": 14,
+      "avg": 13.5,
+      "created_at": "2021-01-15 17:30:13"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 18,
+      "avg": 16.5,
+      "created_at": "2021-01-16 8:30:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 20,
+      "avg": 17.5,
+      "created_at": "2021-01-17 8:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 10,
+      "avg": 5,
+      "created_at": "2021-01-18 8:00:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 15,
+      "avg": 11.5,
+      "created_at": "2021-01-18 16:00:13"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2021-01-19 8:00:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2021-01-20 15:30:14"
+    },
+    {
+      "ocean_id": 7,
+      "min": 10,
+      "max": 12,
+      "avg": 11,
+      "created_at": "2021-01-21 16:30:12"
+    },
+    {
+      "ocean_id": 7,
+      "min": 14,
+      "max": 15,
+      "avg": 14.5,
+      "created_at": "2021-01-23 17:00:22"
+    },
+    {
+      "ocean_id": 7,
+      "min": 18,
+      "max": 25,
+      "avg": 21.5,
+      "created_at": "2021-01-24 16:00:12"
+    },
+    {
+      "ocean_id": 7,
+      "min": 18,
+      "max": 20,
+      "avg": 19,
+      "created_at": "2021-01-25 17:00:13"
+    },
+    {
+      "ocean_id": 7,
+      "min": 15,
+      "max": 16,
+      "avg": 15.5,
+      "created_at": "2021-01-26 16:30:14"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2021-01-27 9:00:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2021-01-28 17:00:12"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2021-01-29 8:00:01"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 12,
+      "avg": 6,
+      "created_at": "2021-01-30 8:00:00"
+    },
+    {
+      "ocean_id": 3,
+      "min": 10,
+      "max": 15,
+      "avg": 12.5,
+      "created_at": "2021-01-30 8:30:00"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2021-01-31 8:00:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2021-01-31 17:30:12"
+    },
+    {
+      "ocean_id": 3,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2021-02-01 8:30:00"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2021-02-01 17:30:15"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2021-02-02 7:00:14"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 12,
+      "avg": 6,
+      "created_at": "2021-02-02 8:00:01"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2021-02-02 15:30:17"
+    },
+    {
+      "ocean_id": 5,
+      "min": 12,
+      "max": 15,
+      "avg": 13.5,
+      "created_at": "2021-02-03 15:30:09"
+    },
+    {
+      "ocean_id": 2,
+      "min": null,
+      "max": 15,
+      "avg": 7.5,
+      "created_at": "2021-02-04 8:30:01"
+    },
+    {
+      "ocean_id": 5,
+      "min": 15,
+      "max": 15,
+      "avg": 15,
+      "created_at": "2021-02-04 12:00:09"
+    },
+    {
+      "ocean_id": 6,
+      "min": 5,
+      "max": 8,
+      "avg": 6.5,
+      "created_at": "2021-02-04 16:30:17"
+    },
+    {
+      "ocean_id": 1,
+      "min": 8,
+      "max": 8,
+      "avg": 8,
+      "created_at": "2021-02-05 8:00:00"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2021-02-05 16:00:13"
+    },
+    {
+      "ocean_id": 1,
+      "min": 10,
+      "max": 10,
+      "avg": 10,
+      "created_at": "2021-02-10 7:30:00"
+    },
+    {
+      "ocean_id": 4,
+      "min": 20,
+      "max": 20,
+      "avg": 20,
+      "created_at": "2021-02-10 8:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2021-02-10 16:30:13"
+    },
+    {
+      "ocean_id": 1,
+      "min": 12,
+      "max": 12,
+      "avg": 12,
+      "created_at": "2021-02-11 7:30:01"
+    },
+    {
+      "ocean_id": 7,
+      "min": 8,
+      "max": 12,
+      "avg": 10,
+      "created_at": "2021-02-12 17:00:15"
+    },
+    {
+      "ocean_id": 7,
+      "min": 12,
+      "max": 13,
+      "avg": 12.5,
+      "created_at": "2021-02-13 16:00:13"
+    },
+    {
+      "ocean_id": 6,
+      "min": 8,
+      "max": 10,
+      "avg": 9,
+      "created_at": "2021-02-13 17:00:13"
+    },
+    {
+      "ocean_id": 5,
+      "min": 10,
+      "max": 18,
+      "avg": 14,
+      "created_at": "2021-02-13 20:00:08"
+    }
+]
